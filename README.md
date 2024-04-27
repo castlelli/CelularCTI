@@ -1,3 +1,2 @@
-Work developed in the first two months at the Bauru CTI in 2024.
-Using ASP.NET (with NpgSQL extensions) and PgSQL, a complete user interface was developed for managing a CRUD (Create, Read, Update and Delete).
-The theme selected was that of a cell phone store, with a view to managing customers, orders and available devices. 
+Work carried out in the first two months at CTI (São Paulo State University, Bauru Faculty of Engineering) in 2024. A complete system and user interface was developed to manage stock, orders and products for a fictitious cell phone store.
+This project used C# (ASP.NET) for the code and user interface and PgSQL for the database. Object-oriented programming and MVC architecture were used throughout development.
